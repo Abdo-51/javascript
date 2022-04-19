@@ -1,0 +1,179 @@
+/* Start Section 1  */
+.div1{
+    width: 35%;
+    float: left;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+.div2{
+    width: 25%;
+    float: left;
+    margin: 20px 0px 10px 177px
+}
+.div2 h3{
+    color: blue;
+
+}
+.div3{
+    width: 25%;
+    float: right;
+    padding-top:25px ;
+}
+.div3 h4{
+    color: blue;
+}
+.form{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+    background-color: #edeaea;
+    border-radius: 20px;
+    color: #EEE;
+}
+.form h1{
+    color: black;
+}
+.form .inp1, .inp2, .inp3 {
+    margin: 20px 0px 15px 0px;
+    padding: 15px
+}    
+.form .tex{
+    margin: 20px 0px 15px 0px;
+    padding: 50px
+}
+.form .btn{
+    border: 2px solid brown;
+    border-radius: 35px;
+    padding: 22px;
+    background-color: brown;
+    color: #eeee;
+    text-align: center;
+}
+form .btn2{
+    border: 2px solid blue;
+    border-radius: 35px;
+    padding: 17px;
+    background-color: #eeee;
+    color: blue;
+    text-align: center;
+}
+.img{
+    width: 70% ;
+    height:75% ;
+}
+.photos img{
+    width:15% ;
+    height: 20%;
+    padding: 10px 41px 5px 0px   
+}
+.sp1,.sp2,.sp3,.sp4{
+   
+        padding: 30px;
+        margin: 60px;
+}
+    /* End Section 1 */
+
+    /* Start Section 2 */
+.div5 .para{
+    font-weight: bold;
+    margin: 5px;
+    line-height: 1.5;
+}
+    /* End Section 2 */
+
+    /*  Start Section 3 */
+#a,#b,#c,#d{
+    padding-right: 200px;
+    
+}
+#q,#w,#e,#r{
+    padding-right: 225px;
+}
+    /* End Section 3 */
+
+    /*  Start Section 4 */
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  background-color: #dddddd;
+}
+    /* End Section 4  */
+
+    /* Start section 5 */
+.div6{
+    text-align: center;
+}
+.div6 hr{
+    text-align: center;
+    width:25%;
+}
+    /* End section 5 */
+
+    /* Start section 6 */
+.section{
+    max-width: 1920px;
+
+}
+
+.section .graid {
+    padding-left: 15rem;
+    padding-right: 15rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section .graid .group {
+    margin: 0 auto;
+    padding: 0 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.section .graid .group .gool {
+    background-color: rgb(199, 218, 235);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 28px;
+    max-width: 17rem;
+    border-radius: 1rem;
+    margin: 5px;
+    height: 26rem;
+}
+
+
+/* .section .graid .group .gool img { */
+
+
+/* margin-bottom: 5%; */
+
+
+/* } */
+
+.section .graid .group .gool:hover {
+    border: 2px solid rgb(58, 58, 228);
+}
+
+.up {
+    display: flex;
+    justify-content: end;
+    text-align: right;
+    font-size: 3em;
+    margin-right: 2rem;
+}
+    /* End Section 6 */
+
+    /* Start Footer */
+
+    /* End Footer */ 

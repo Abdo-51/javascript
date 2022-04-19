@@ -1,0 +1,44 @@
+.img {
+    float: left;
+}
+.div{
+    display: inline-block;
+    overflow: hidden;
+    padding: 100px;
+    margin: 30px 40px;
+    border: 0.1em solid #eee;
+    border-radius: 30px;
+}
+.login{
+  text-align: center;
+  color: blue;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.inputbox {
+   width: 288px;
+  height: 40px;
+  background: #eee;
+   
+}
+#la1{
+padding: 19px;
+}
+#la2{
+    padding: 8px;
+}
+ .btn{
+    margin-top: 20px;
+    width: 375px;
+    border: none; 
+    border-style: hidden;
+    color: #fff;
+    height: 35px;
+    font-size: 17px;
+    background-color: blue;
+}
+
+.linkpara{
+  text-align: center;
+}
